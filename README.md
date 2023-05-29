@@ -7,9 +7,9 @@
 - RGBA转RGBA时保留alpha通道透明度
 ***
 ##  ✨Demo:
-![demo_gif](https://xx "demo gif")  
+![demo_gif](https://github.com/Afl0wer/ColorAsciiArt/blob/main/demo.gif "demo gif")  
 ## 🚀Usage:
 `color_ascii_art.py [-h] -i INPUTIMAGE -o OUTPUTIMAGE [--fontsize FONTSIZE]`
 ## ⚡️Result：
-![origin_image](https://xx "origin image")  
-![new_image](https://xx "new char image")
+![origin_image](https://github.com/Afl0wer/ColorAsciiArt/blob/main/cat.jpg "origin image")  
+![new_image](https://github.com/Afl0wer/ColorAsciiArt/blob/main/cat_chr_image.jpg "new char image")
