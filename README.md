@@ -10,6 +10,6 @@
 ![demo_gif](https://github.com/Afl0wer/ColorAsciiArt/blob/main/demo.gif "demo gif")  
 ## 🚀Usage:
 `color_ascii_art.py [-h] -i INPUTIMAGE -o OUTPUTIMAGE [--fontsize FONTSIZE]`
-## ⚡️Result：
+## ⚡️Example：
 ![origin_image](https://github.com/Afl0wer/ColorAsciiArt/blob/main/cat.jpg "origin image")  
 ![new_image](https://github.com/Afl0wer/ColorAsciiArt/blob/main/cat_chr_image.jpg "new char image")
